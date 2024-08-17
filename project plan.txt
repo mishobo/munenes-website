@@ -9,9 +9,11 @@
 - Create react project basic project structure - (Done)
 - Set background image - (Done)
 - insert/place text and logos
-
+- darken the background
 
 4. Test
 - Show Munene for approval
-5. Deplo
+
+5. Deployment 
+
 6. Review
