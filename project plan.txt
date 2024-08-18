@@ -8,13 +8,18 @@
 3. Develop
 - Create react project basic project structure - (Done)
 - Set background image - (Done)
-- center content
-- insert/place text and logos
+- center logo - (Done)
+- insert/place text and logos - (Done)
 - darken the background
+- setup react routing
 
 4. Test
 - Show Munene for approval
 
 5. Deployment 
+- setup docker container
+- Get server
+- setup domain name
+- setup ssl
 
 6. Review
