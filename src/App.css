@@ -1,27 +1,26 @@
-.content{
+.container{
   display: flex;
   flex-direction: column;
   height: 100vh;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
 }
 
 
-.container{
+.content{
   width: 500px;
   height: 250px;
-  outline: solid 1px rgb(216, 11, 11);
+  /* outline: solid 1px rgb(216, 11, 11); */
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
 .footer{
-  margin: 0;
   width: 500px;
-  height: 250px;
-  outline: solid 1px rgb(216, 11, 11);
+  height: 120px;
+  /* outline: solid 1px rgb(216, 11, 11); */
   display: flex;
   justify-content: center;
-  align-items:last baseline;
+  align-items: center;
 }
