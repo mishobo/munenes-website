@@ -9,7 +9,7 @@
 
 .content{
   width: 500px;
-  height: 250px;
+  height: 200px;
   /* outline: solid 1px rgb(216, 11, 11); */
   display: flex;
   justify-content: center;

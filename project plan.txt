@@ -12,6 +12,7 @@
 - insert/place text and logos - (Done)
 - darken the background
 - setup react routing
+- mobile responsive 
 
 4. Test
 - Show Munene for approval

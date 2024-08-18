@@ -7,7 +7,7 @@ export default function logo() {
       <div></div>
       <div className='content'>
         <div className='logo'>
-          <img src={Logo} width='500px' alt='munene advocate logo' />
+          <img src={Logo}  alt='munene advocate logo' />
         </div>
       </div>
       <div className='footer'> 
