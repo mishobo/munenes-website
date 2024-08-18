@@ -13,6 +13,7 @@
 - darken the background
 - setup react routing
 - mobile responsive 
+- footer/contact layout
 
 4. Test
 - Show Munene for approval

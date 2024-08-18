@@ -12,8 +12,7 @@ export default function logo() {
       </div>
       <div className='footer'> 
         <pre>
-          Munene Micheni<br/>
-          LLB(Hons) UoN, Dip. Law (KSL)<br/>
+          Munene Micheni, LLB(Hons) UoN, Dip. Law (KSL)<br/>
           Managing Partner<br/>
           <a href='mailto:munene@munenemicheniadvocates.com'>munene@munenemicheniadvocates.com</a><br/>
           +254733529467, +254757336629<br/>

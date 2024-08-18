@@ -34,7 +34,7 @@ img {
   .content{
     width: 100px;
     height: 60px;
-    outline: solid 1px rgb(216, 11, 11);
+    /* outline: solid 1px rgb(216, 11, 11); */
     display: flex;
     justify-content: center;
     align-items: center;
@@ -44,7 +44,7 @@ img {
     font-size: smaller;
     width: 100px;
     height: 60px;
-    outline: solid 1px rgb(216, 11, 11);
+    /* outline: solid 1px rgb(216, 11, 11); */
     display: flex;
     justify-content: center;
     align-items: center;
