@@ -1,23 +1,27 @@
-
 .content{
   display: flex;
+  flex-direction: column;
+  height: 100vh;
   justify-content: center;
   align-items: center;
-  /* outline: solid 1px red; */
-  height: 100vh;
 }
 
+
 .container{
-  /* outline: solid 1px red; */
   width: 500px;
   height: 250px;
-  /* margin: 50px; */
+  outline: solid 1px rgb(216, 11, 11);
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
-
-.logo{
-
+.footer{
+  margin: 0;
+  width: 500px;
+  height: 250px;
+  outline: solid 1px rgb(216, 11, 11);
+  display: flex;
+  justify-content: center;
+  align-items:last baseline;
 }
