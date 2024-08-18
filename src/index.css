@@ -5,8 +5,13 @@ html, body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-image: url('./images/Maasai_Background_edited_1.jpg');
+}
+
+body {
+  background-image: url('./images/lioness_background_1.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
+  background-position: center center;
+  color: white;
 }

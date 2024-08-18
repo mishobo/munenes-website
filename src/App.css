@@ -1,33 +1,23 @@
-.App {
-  text-align: center;
-}
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  min-height: 100vh;
+.content{
   display: flex;
-  flex-direction: column;
-  align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  align-items: center;
+  /* outline: solid 1px red; */
+  height: 100vh;
 }
 
-.App-link {
-  color: #61dafb;
+.container{
+  /* outline: solid 1px red; */
+  width: 500px;
+  height: 250px;
+  /* margin: 50px; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
-.Image {
-  background-image: url('./images/Maasai_Background_edited_1.jpg');
-  height: 100%; 
+
+.logo{
+
 }

@@ -8,6 +8,7 @@
 3. Develop
 - Create react project basic project structure - (Done)
 - Set background image - (Done)
+- center content
 - insert/place text and logos
 - darken the background
 

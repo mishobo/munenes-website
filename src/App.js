@@ -1,8 +1,10 @@
 import './App.css';
+import Logo from './logo/logo';
 
 function App() {
   return (
-    <div className='Image'>
+    <div>
+      <Logo/>
     </div>
   );
 }
