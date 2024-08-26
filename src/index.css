@@ -54,10 +54,18 @@ a:link{
     /* outline: solid 1px rgb(216, 11, 11); */
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: center;  
   }
 
   img {
     width: 250px;
+  }
+
+  .midsection {
+    font-size: smaller;
+    font-weight: 50;
+    width: 200px;
+    height: 60px;
+    display: flex;
   }
 }

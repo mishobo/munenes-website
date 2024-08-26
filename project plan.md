@@ -4,6 +4,7 @@
 2. Design
 - Get Adobe Photo shop - (Done)
 - Learn how to make black & white well - (Done)
+- company font & colour ?
 
 3. Develop
 - Create react project basic project structure - (Done)
@@ -17,6 +18,12 @@
 
 4. Test
 - Show Munene for approval
+### changes recommended
+- use lioness background image - (Done)
+- logo to move to the top of the page - (Done)
+- make logo colored - (blue makes it unreadable)
+- 
+
 
 5. Deployment 
 - setup docker container with nginx
