@@ -14,7 +14,7 @@ export default function logo() {
         <h1 className='moto'>Precision, Integrity, Client Focus</h1>
       </div>
       <div className='footer'> 
-        <pre>
+        <pre className='address'>
            Kose Heights, 5th Floor, Hurlingham<br/>
           +254733529467, +254757336629<br/>
           <a href='mailto:munene@munenemicheniadvocates.com'>munene@munenemicheniadvocates.com</a><br/>
