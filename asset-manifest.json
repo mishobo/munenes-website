@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mishobo/munenes-website.git/static/css/main.ac71d7d7.css",
+    "main.js": "/mishobo/munenes-website.git/static/js/main.328fdc5f.js",
+    "static/media/lioness_background_1.jpg": "/mishobo/munenes-website.git/static/media/lioness_background_1.ac5302cb6c848407f31d.jpg",
+    "static/media/White_on_Transparent.png": "/mishobo/munenes-website.git/static/media/White_on_Transparent.e6fd2be99d318c5ec522.png",
+    "index.html": "/mishobo/munenes-website.git/index.html",
+    "main.ac71d7d7.css.map": "/mishobo/munenes-website.git/static/css/main.ac71d7d7.css.map",
+    "main.328fdc5f.js.map": "/mishobo/munenes-website.git/static/js/main.328fdc5f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac71d7d7.css",
+    "static/js/main.328fdc5f.js"
+  ]
+}
