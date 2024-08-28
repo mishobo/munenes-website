@@ -1,7 +1,6 @@
 {
   "name": "munenes_website",
   "version": "0.1.0",
-  "homepage": "https://github.com/mishobo/munenes-website.git",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
