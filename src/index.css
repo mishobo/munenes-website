@@ -29,43 +29,55 @@ a:link{
 /* Mobile Responsiveness settings */
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 768px) {
+  /* html, body {
+    max-height: fit-content;
+    height: 100vmin;
+  } */
+
+
   .container{
+    /* outline: solid 1px rgb(216, 11, 11); */
     display: flex;
     flex-direction: column;
-    height: 100vh;
     justify-content: space-between;
     align-items: center;
+    height: 100svw;
   }
   
   
-  .content{
-    width: 100px;
+  .header{
+    width: 100%;
     height: 60px;
     /* outline: solid 1px rgb(216, 11, 11); */
     display: flex;
     justify-content: center;
     align-items: center;
+  }
+
+  .midsection {
+    /* outline: solid 1px rgb(216, 11, 11); */
+    font-size: smaller;
+    font-weight: 50;
+    width: 100%;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
   }
   
   .footer{
     font-size: smaller;
-    width: 100px;
+    width: 100%;
     height: 60px;
     /* outline: solid 1px rgb(216, 11, 11); */
-    display: flex;
+    display: flex; 
     justify-content: center;
     align-items: center;  
+    margin-bottom: 25px;
   }
 
   img {
     width: 250px;
   }
 
-  .midsection {
-    font-size: smaller;
-    font-weight: 50;
-    width: 200px;
-    height: 60px;
-    display: flex;
-  }
 }

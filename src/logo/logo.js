@@ -5,7 +5,7 @@ import Logo from '../images/White_on_Transparent.png'
 export default function logo() {
   return (
     <div className='container'>
-      <div className='content'>
+      <div className='header'>
         <div className='logo'>
           <img src={Logo}  alt='munene advocate logo' />
         </div>
@@ -15,8 +15,8 @@ export default function logo() {
       </div>
       <div className='footer'> 
         <pre>
-           Kose Heights, 5th Floor, Hurlingham<br/>
-          +254733529467, +254757336629<br/>
+           Kose Heights, 5<sup>th</sup> Floor, Hurlingham<br/>
+          +254 733 529 467, +254 757 336 629<br/>
           <a href='mailto:munene@munenemicheniadvocates.com'>munene@munenemicheniadvocates.com</a><br/>
         </pre>
       </div>

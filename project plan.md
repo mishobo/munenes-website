@@ -22,7 +22,9 @@
 - use lioness background image - (Done)
 - logo to move to the top of the page - (Done)
 - make logo colored - (blue makes it unreadable)
-- 
+- th superscript
+- contacts spacing
+- mobile compactibility
 
 
 5. Deployment 
