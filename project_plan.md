@@ -4,7 +4,7 @@
 2. Design
 - Get Adobe Photo shop - (Done)
 - Learn how to make black & white well - (Done)
-- company font & colour ?
+- company font & colour ? - (pending)
 
 3. Develop
 - Create react project basic project structure - (Done)
@@ -13,8 +13,8 @@
 - insert/place text and logos - (Done)
 - footer/contact layout - text align center (Done)
 - mobile responsive - (Done)
-- darken the background
-- setup react routing
+- darken the background - (pending)
+- setup react routing - (pending)
 
 4. Test
 - Show Munene for approval
@@ -25,12 +25,12 @@
 - th superscript
 - contacts spacing
 - mobile compactibility
-
+- introduce midsection - (done)
 
 5. Deployment 
-- setup docker container with nginx
-- Get server
-- setup domain name
-- setup ssl
+- setup docker container with nginx - (pending)
+- Get server - (pending)
+- setup domain name - (pending)
+- setup ssl - (pending)
 
 6. Review
