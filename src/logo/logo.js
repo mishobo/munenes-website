@@ -16,7 +16,7 @@ export default function logo() {
       <div className='footer'> 
         <pre>
            Kose Heights, 5<sup>th</sup> Floor, Hurlingham<br/>
-          +254 733 529 467, +254 757 336 629<br/>
+          <a href='tel:+254 733 529 467'>+254 733 529 467</a>, <a href='tel:+254 757 336 629'>+254 757 336 629</a><br/>
           <a href='mailto:munene@munenemicheniadvocates.com'>munene@munenemicheniadvocates.com</a><br/>
         </pre>
       </div>
