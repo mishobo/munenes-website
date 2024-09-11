@@ -11,7 +11,9 @@ export default function logo() {
         </div>
       </div>
       <div className='midsection'>
-        <h1 className='moto'>Precision, Integrity, Client Focus</h1>
+        <div>
+         <h1 className='moto'>Precision, Integrity, Client Focus</h1>
+        </div>        
       </div>
       <div className='footer'> 
         <pre>

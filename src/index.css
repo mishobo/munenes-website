@@ -34,7 +34,6 @@ a:link{
     height: 100vmin;
   } */
 
-
   .container{
     /* outline: solid 1px rgb(216, 11, 11); */
     display: flex;
@@ -77,7 +76,36 @@ a:link{
   }
 
   img {
-    width: 400px;
+    width: 350px;
   }
+
+}
+
+
+
+
+@media only screen and (max-width: 500px) {
+
+  img {
+    width: 250px;
+  }
+
+
+  .midsection {
+    /* outline: solid 1px rgb(216, 11, 11); */
+    font-size: smaller;
+    width: 60%;
+    display:flex;
+    align-items: center; 
+    justify-content: center;
+    /* margin-left: 100px; */
+  }
+
+  .footer{
+    /* outline: solid 1px rgb(216, 11, 11); */
+    margin-bottom: 0px;
+  }
+
+
 
 }
